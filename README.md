@@ -5,7 +5,7 @@ It was created in August 2021 for the SIBR cursed Blaseball viewer hackathon.
 
 # Design Goal:
 The intent was to replicate the blaseball.com "Watch Live" tab while sticking as closely to the aesthetic of a website from 1999 as possible.  Modern tech was obviously required for serving up Blaseball updates and working around some changes in browsers in the last couple decades, but the aim was to keep the appearance as non-anachronistic as possible. 
-This meant using simple text formatting, small images, animated gifs, and avoiding emojis or javascript controls.
+This meant using simple text formatting, <marquee> and <center> tags, small images, animated gifs, and avoiding emojis or javascript controls.
 In order to fit in as many turn-of-the-millenium web staples as possible, we added on side sites that could contain the guestbook, visitor counter, and chatroom. The animated Cool Spot gif was a must-include, since it is my Most Nostalgic Gif.
 
 # Features:
